@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="c_programs">C Programs</string>
+    <string name="c_compiler">C Compiler</string>
+    <string name="python_programs">Python Programs</string>
+    <string name="python_interpreter">Python Interpreter</string>
+    <string name="c_and_python_comparison">C And Python Comparison</string>
+    <string name="programs_and_algorithms">Programs And Algorithms</string>
+    <string name="arrays">Arrays</string>
+    <string name="strings">Strings</string>
+    <string name="stacks">Stacks</string>
+    <string name="infix_to_postfix">Infix To Postfix</string>
+    <string name="tower_of_hanoi">Tower Of Hanoi</string>
+    <string name="circular_queue">Circular Queue</string>
+</resources>
